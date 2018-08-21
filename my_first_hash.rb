@@ -1,5 +1,5 @@
 def my_hash
-  dictionary = {"apple" => "healthy fruit", "ice cream" => "frozen dairy", "chips" => "deep fried potatoes"
+  about_me = {"apple" => "healthy fruit", "ice cream" => "frozen dairy", "chips" => "deep fried potatoes"
 end
 
 
